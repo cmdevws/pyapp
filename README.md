@@ -14,4 +14,4 @@ Para correr el programa se debe lanzar el archivo menu
 commant : python menu.py
 
 #Datos
-La base de datos se adjunta en la carpeta DataBase y en ella se encuentra la tabla y datos inciales
+La base de datos se adjunta en el archivo app_datos.sql donde se encuentra la tabla y datos inciales
